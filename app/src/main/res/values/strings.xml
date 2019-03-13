@@ -1,4 +1,4 @@
 <resources>
-  <string name="app_name">JenkinsTest</string>
+  <!--<string name="app_name">JenkinsTest</string>-->
   <item name="tag" type="id"/>
 </resources>
